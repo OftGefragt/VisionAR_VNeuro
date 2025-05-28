@@ -1,0 +1,12 @@
+jax>=0.4.13
+jaxlib>=0.4.13
+flax>=0.7.5
+imageio-ffmpeg>=0.4.9
+wandb>=0.15.12
+ipywidgets>=8.1.1
+tqdm>=4.66.1
+optax>=0.1.7
+numpy>=1.24.0
+plotly>=5.18.0
+matplotlib>=3.8.0
+requests>=2.31.0 
